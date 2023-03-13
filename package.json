@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cli.js": "^1.0.2",
+    "@truffle/hdwallet-provider": "^2.1.7",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.2.0",
+    "truffle-contract": "^4.0.31",
+    "web3": "^1.8.2"
+  }
+}
